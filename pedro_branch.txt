@@ -1,2 +1,3 @@
 Fichero desde rama Pedro
 Cambio para hacer PR
+Segundo cambio de PR para mostrar reglas de integración
