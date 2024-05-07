@@ -1,3 +1,4 @@
 Fichero desde rama Pedro
 Cambio para hacer PR
 Segundo cambio de PR para mostrar reglas de integración
+Tercer cambio de PR para mostrar reglas de integración (los administradores pueden hacer bypass)
